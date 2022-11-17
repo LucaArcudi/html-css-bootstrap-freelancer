@@ -1,8 +1,14 @@
 /* BODY */
 /* BODY */
 
-span{
-    display: block
+span.star{
+    height: 3px;
+    width: 10vw;
+    display: inline-block;
+    margin-bottom: 0.8rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    
 }
 
 /* HEADER */
@@ -24,12 +30,22 @@ section.start-bootstrap img{
     width: 250px;
 }
 
-/* PORTFOLIO */
+section.start-bootstrap span.star{
+    background-color: white;
+}
 
+/* PORTFOLIO */
+section.portfolio span.star{
+    background-color: black;
+}
 
 /* ABOUT */
 section.about{
     background-color: #1ABC9C;
+}
+
+section.about span.star{
+    background-color: white;
 }
 
 /* FORM */
@@ -54,6 +70,10 @@ section.form textarea{
 
 section.form button{
     background-color: #1ABC9C;
+}
+
+section.form span.star{
+    background-color: black;
 }
 /* FOOTER */
 /* FOOTER */
