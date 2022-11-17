@@ -1,7 +1,11 @@
+/* HEADER */
+/* HEADER */
+
 header{
     background-color: #2C3E50;
 }
 
+/* MAIN */
 /* MAIN */
 
 /* START-BOOTSTRAP */
@@ -13,4 +17,28 @@ section.start-bootstrap{
 
 section.start-bootstrap img{
     width: 250px;
+}
+
+/* PORTFOLIO */
+
+
+/* ABOUT */
+section.about{
+    background-color: #1ABC9C;
+}
+
+/* FORM */
+
+
+/* FOOTER */
+/* FOOTER */
+
+/* FOOTER-TOP */
+section.footer-top{
+    background-color: #3A546D;
+}
+
+/* FOOTER-BOT */
+section.footer-bot{
+    background-color: #2C3E50;
 }
