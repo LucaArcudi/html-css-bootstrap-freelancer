@@ -11,8 +11,6 @@ header{
 /* START-BOOTSTRAP */
 section.start-bootstrap{
     background-color: #1ABC9C;
-    text-align: center;
-    color: #FFFFFF;
 }
 
 section.start-bootstrap img{
@@ -36,6 +34,31 @@ section.about{
 /* FOOTER-TOP */
 section.footer-top{
     background-color: #3A546D;
+    padding-bottom: 3rem;
+}
+
+section.footer-top div.row{
+    line-height: 2.5rem;
+}
+
+.btn-fb{
+    padding: 0.45rem 1rem;
+}
+
+.btn-gp{
+    padding: 0.45rem .75rem;
+}
+
+.btn-tw{
+    padding: 0.45rem .85rem;
+}
+
+.btn-in{
+    padding: 0.45rem .95rem;
+}
+
+section.footer-top p{
+    font-size: 1.4rem;
 }
 
 /* FOOTER-BOT */
