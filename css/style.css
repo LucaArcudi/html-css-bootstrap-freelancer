@@ -1,0 +1,16 @@
+header{
+    background-color: #2C3E50;
+}
+
+/* MAIN */
+
+/* START-BOOTSTRAP */
+section.start-bootstrap{
+    background-color: #1ABC9C;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+section.start-bootstrap img{
+    width: 250px;
+}
